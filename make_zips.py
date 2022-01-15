@@ -50,8 +50,8 @@ class MakeZip:
 
 
 if __name__ == '__main__':
-    path1 = r"/Users/siv/OneDrive - Gayatri Vidya Parishad College Of Engineering/SIVA MG Tanuku/175ND750"
-    folder_location = r"/Users/siv/OneDrive - Gayatri Vidya Parishad College Of Engineering"
+    path1 = r"" #enter main path
+    folder_location = r""
     mz = MakeZip(path1, folder_location)
     # mz.get_file_path()
     # mz.divide_into_100s()
